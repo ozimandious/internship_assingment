@@ -1,29 +1,26 @@
-# Foobar
+# internship_assingment
 
-Foobar is a Python library for dealing with word pluralization.
+Four assigment are include in this respositry
 
-## Installation
+## send_email.py
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+enter the sender details with password followed by recivers detail , msuject and password
 
 ```bash
-pip install foobar
+python send_email.py
 ```
 
-## Usage
+## dictionry_search.py
+
+enter the word you want to know the defination ofg , if want to know more thwn defination change the json variable in the code.
 
 ```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+python dictionry_search.py
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## assingment3.cpp
 
-Please make sure to update tests as appropriate.
+enter the length and the arrey to get the output.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## assingment4.pdf
+simple pdf file
